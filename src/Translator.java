@@ -15,6 +15,8 @@ public class Translator {
         numericAlpha.put ("Zeven");
         numericAlpha.put ("Acht");
         numericAlpha.put ("Negen");
-        numericAlpha.put ("Nul");*/
+        numericAlpha.put ("Nul");
+public class void alpabetic new
+        (String[] alpabetic, Integer[] numeric);
     }
 }
