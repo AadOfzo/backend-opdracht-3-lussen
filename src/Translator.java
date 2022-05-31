@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class Translator {
     public static void main (String[] args) {
     HashMap<Integer,String> numericAlpha = new HashMap<String,String>();
-
+// Comment
         numericAlpha.put ("Een");
         numericAlpha.put ("Twee");
         numericAlpha.put ("Drie");
